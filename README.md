@@ -1,6 +1,6 @@
 # Red Planet Properties 
 
-This web app is a fun twist on a Real Estate app where users can lease or purchase property on Mars.
+This web app is a fun twist on a real estate site where users can lease or purchase property on Mars.
 
 
 ## Getting started
